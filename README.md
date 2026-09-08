@@ -232,3 +232,6 @@ This repository serves as the official landing page for Norton Power Eraser. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Norton Power Eraser today!**
+
+---
+**Last updated:** 2026-09-08 12:36:20 UTC
